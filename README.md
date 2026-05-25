@@ -14,8 +14,8 @@ This repository accompanies:
 > Currently under review at **Operations Research Forum, Springer Nature**
 
 A preprint is publicly available:  
-**Research Square:** https://doi.org/10.21203/rs.3.rs-XXXXXXX/v1  
-*(Replace with your actual Research Square DOI)*
+**Research Square:** *https://doi.org/10.21203/rs.3.rs-7930805/v1*
+
 
 Specific empirical results from the paper will be shared upon acceptance and publication.  
 All notebooks in this repository use **fictional toy data only**.
@@ -156,8 +156,10 @@ Industrial Operations Engineer | Performance Analytics | Researcher
 Adlore Business Enterprise Limited — Benin City, Nigeria  
 
 **Contact:** frontdesk@adlorebusiness.ng  
-**LinkedIn:** *(add your LinkedIn profile URL)*  
-**Research Square preprint:** *(add DOI link)*
+**LinkedIn:** *linkedin.com/in/oghenero-inana-98b224a3*  
+**Research Square preprint:** *https://doi.org/10.21203/rs.3.rs-7930805/v1
+
+*
 
 ---
 
@@ -173,4 +175,4 @@ frontdesk@adlorebusiness.ng
 
 ---
 
-*Repository created May 2025. Updated progressively as articles are published.*
+*Repository created May 2026. Updated progressively as articles are published.*
