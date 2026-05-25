@@ -17,4 +17,6 @@ Links will be added as articles are published.
 ## Research Paper
 
 **Under review:** Operations Research Forum, Springer Nature  
-**Preprint:** Research Square — *(add DOI link)*
+**Preprint:** Research Square — [*(add DOI link)*](https://doi.org/10.21203/rs.3.rs-7930805/v1
+
+)
