@@ -122,7 +122,7 @@ Full methodology is documented in the companion paper (preprint link above).
 ## Content Series
 
 This repository accompanies a LinkedIn content series titled  
-**"Industrial Engineer | Performance Analytics Platform"**
+**"You Can't Benchmark Without Peers - Or Can You?"**
 
 The series connects each analytical method to a real operational problem —
 demonstrating not what the tools do, but what they reveal when applied to
