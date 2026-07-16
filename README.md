@@ -57,10 +57,10 @@ enabling bounded DEA evaluation without external comparators.
 | # | File | Companion Article | Status |
 |---|------|-------------------|--------|
 | Index | `00_repository_index.ipynb` | Repository overview and environment check | ✓ Live |
-| 1 | `01_dea_fundamentals.ipynb` | *What DEA Measures and Why Isolated Facilities Break It* | Coming — Jun 2025 |
-| 2 | `02_synthetic_dmu_generation.ipynb` | *Building a Benchmark from Nothing — The Synthetic DMU Idea* | Coming — Jul 2025 |
-| 3 | `03_reference_set_construction.ipynb` | *TBD — Learning-Stack Applied Piece* | Coming — Aug 2025 |
-| 4 | `04_pasy_template.ipynb` | *TBD — Practitioner Template* | Coming — late 2025 |
+| 1 | `01_dea_fundamentals.ipynb` | *What DEA Measures and Why Isolated Facilities Break It* | 
+| 2 | `02_synthetic_dmu_generation.ipynb` | *Building a Benchmark from Nothing — The Synthetic DMU Idea* |TBD |
+| 3 | `03_reference_set_construction.ipynb` | *TBD — Learning-Stack Applied Piece* |TBD |
+| 4 | `04_pasy_template.ipynb` | *TBD — Practitioner Template* |TBD |
 
 Notebooks are added as each companion article is published.  
 Follow the author on LinkedIn for publication updates.
@@ -74,10 +74,10 @@ pasy-dea-analytics/
 │
 ├── notebooks/
 │   ├── 00_repository_index.ipynb       ← Start here — overview and environment check
-│   ├── 01_dea_fundamentals.ipynb       ← Coming Jun 2025
-│   ├── 02_synthetic_dmu_generation.ipynb   ← Coming Jul 2025
-│   ├── 03_reference_set_construction.ipynb ← Coming Aug 2025
-│   └── 04_pasy_template.ipynb          ← Coming late 2025
+│   ├── 01_dea_fundamentals.ipynb       ← Worked DEA example
+│   ├── 02_synthetic_dmu_generation.ipynb   ← |TBD |
+│   ├── 03_reference_set_construction.ipynb ← |TBD |
+│   └── 04_pasy_template.ipynb          ← |TBD |
 │
 ├── data/
 │   └── README.md                       ← Toy datasets (fictional only, added with notebooks)
